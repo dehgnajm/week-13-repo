@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #f8f9fa;
+    position: relative;
+  }
+  
+  .navbar-brand {
+    color: #333;
+    font-weight: bold;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+    padding: 15px 0;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333;
+    font-size: 20px; /* Increase the font size to your desired value */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff;
+  }
+  
